@@ -11,7 +11,6 @@
 
 <div style="margin: 12px 0;">
     <span style="font-size: 16px; color: white;">Tecnologias</span>
-    <br>
     <div style="display: inline-flex; gap: 12px; margin: 24px 0;">
         <br>
         <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,6 +24,7 @@
         <img align="center" alt="Rick-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
     </div>
 </div>
+<br>
 
 <!-- <div style="display: block; visibility: 0; gap: 12px; margin: 0 0 24px 0;">
     <img align="center" alt="Rick-gulp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
@@ -42,13 +42,13 @@
         <img align="center" alt="Rick-vuetify" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">
     </div>
 </div>
-
+<br>
 
 <div style="margin: 12px 0;">
     <span style="font-size: 16px; color: white; text-decorarion: none;">Design</span>
     <br>
     <div style="display: inline-flex; gap: 12px; margin: 24px 0;">
         <img align="center" alt="Rick-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-        <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<!--         <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
     </div>
 </div>
