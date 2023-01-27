@@ -1,4 +1,4 @@
-## Alo eu sou o Henrique Leonel.
+## Henrique Leonel.
 
 
 ## Desenvolvedor Web focado no Front-End, e apaixonado por Design Ui/Ux.
